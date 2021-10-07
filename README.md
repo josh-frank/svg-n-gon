@@ -1,6 +1,6 @@
 # svg-n-gon
 
-A dumb simple tool to generate simple versatile SVG paths/vertices of regular polygons. Useful for situations where `transform()` is not ideal or for defining evenly-spaced stopping points around a circular path.
+A dumb simple tool to generate simple versatile SVG paths/vertices of regular polygons. Useful for situations where `transform()` is not ideal or for defining evenly-spaced stopping points around a circular path... or for when you just need a regular polygon.
 
 ## Use
 
@@ -43,7 +43,7 @@ nGon( <center>, <numberOfSides>, <radius>, <startAngle>, <asPath>, <counterClock
     <tr>
       <td><code>startAngle</code></td>
       <td>number</td>
-      <td>Rotates the nGon</td>
+      <td>Rotates the n-gon</td>
       <td></td>
     </tr>
     <tr>
